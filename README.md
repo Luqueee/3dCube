@@ -1,3 +1,3 @@
 # 3dCube
 
-'pip install requeriments.txt'
+`pip install requeriments.txt`
